@@ -3,7 +3,7 @@
   "team": 8,
   "linkpart1": "https://www.ncei.noaa.gov/orders/cdo/997809.csv",
   "linkpart2": "https://www.ncei.noaa.gov/orders/cdo/996703.csv",
-  "AWSAccess":"AKIAJKKKK7KAGUT5CONA",
-  "AWSSecret":"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",
+  "AWSAccess":"",
+  "AWSSecret":"",
   "notificationEmail":"malshetti.s@husky.neu.edu"
 }
