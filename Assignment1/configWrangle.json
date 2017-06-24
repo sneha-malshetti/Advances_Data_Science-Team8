@@ -1,0 +1,10 @@
+{
+    "state": "nj",
+    "team": 8,
+    "rawData": "https://s3.amazonaws.com/team8njassignment1/Rawdata/NJ_230617_WBAN_54779.csv",
+    "cleanData": "https://s3.amazonaws.com/team8njassignment1/CleanData/nj_230617_WBAN_54779_clean.csv_clean.csv",
+    "AWSAccess": "AKIAJKKKK7KAGUT5CONA",
+    "AWSSecret": "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",
+    "notificationEmail": "malshetti.s@husky.neu.edu",
+    "StationId": "_WBAN_54779"
+}
