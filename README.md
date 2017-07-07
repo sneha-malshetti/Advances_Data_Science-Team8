@@ -12,5 +12,6 @@ For dataWragle:
 Run the dataIWrangling: run.sh file inside the assignment1 folder to invoke the datawrangle.py.
 
 Docker Image 
+
 docker pull megha8/team8njassignment1:wrangling
 
