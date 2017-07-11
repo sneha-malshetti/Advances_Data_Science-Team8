@@ -18,3 +18,7 @@ docker pull megha8/team8njassignment1:wrangling
 Assignment Report:
 
 Advances_Data_Science-Team8/Assignment1/FinalReport1
+
+
+
+All work related to 2nd assignment is in https://github.com/sneha-malshetti/Advances_Data_Science-Team8/tree/master/Assignment2
