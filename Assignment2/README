@@ -1,1 +1,13 @@
 
+Assignment 2. 
+
+To Run the data wrangling from docker images :
+
+docker run megha8/assignment2:latest
+This will get the data wrangling and upload the dataset to S3 bucket.
+
+For Exploratory Data Analysis step Run the EDA.py 
+Which will give the detaile analysis of the dataset.
+
+For running the data set in mongoDB using flask use the file 
+Flask.py Which will run the querry for nearest latitude and longitude on Ec2 instance on dataset using MongoDB
